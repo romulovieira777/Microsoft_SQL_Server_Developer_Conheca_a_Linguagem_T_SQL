@@ -1,0 +1,13 @@
+SELECT
+	@@VERSION
+GO
+
+
+SELECT
+	GETDATE()
+GO
+
+
+SELECT
+	RAND()
+GO
