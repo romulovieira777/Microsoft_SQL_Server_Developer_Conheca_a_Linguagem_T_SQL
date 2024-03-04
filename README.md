@@ -4,7 +4,7 @@
 - [Seção 01 - Apresentação do Curso](https://github.com/romulovieira777/Microsoft_SQL_Server_Developer_Conheca_a_Linguagem_T_SQL/tree/main/Secao_01_Apresentacao_do_Curso)
 - [Seção 02 - Instalações](https://github.com/romulovieira777/Microsoft_SQL_Server_Developer_Conheca_a_Linguagem_T_SQL/tree/main/Secao_02_Instalacoes)
 - Seção 03 - Módulo 01 - Introdução
-- Seção 04 - Conhecimento Teórico
+- [Seção 04 - Conhecimento Teórico](https://github.com/romulovieira777/Microsoft_SQL_Server_Developer_Conheca_a_Linguagem_T_SQL/tree/main/Secao_04_Conhecimento_Teorico)
 - Seção 05 - Arquitetura do SQL Server - Introdução
 - Seção 06 - Criando Tabelas e suas Integridades
 
