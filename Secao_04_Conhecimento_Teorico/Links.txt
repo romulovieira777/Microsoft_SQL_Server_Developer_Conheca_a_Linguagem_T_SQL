@@ -1,0 +1,11 @@
+Programação declarativa
+https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_declarativa
+
+DB-Engines
+https://db-engines.com/en/
+
+SQL
+https://pt.wikipedia.org/wiki/SQL
+
+Relação (matemática)
+https://pt.wikipedia.org/wiki/Rela%C3%A7%C3%A3o_(matem%C3%A1tica)
