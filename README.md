@@ -6,6 +6,6 @@
 - Seção 03 - Módulo 01 - Introdução
 - [Seção 04 - Conhecimento Teórico](https://github.com/romulovieira777/Microsoft_SQL_Server_Developer_Conheca_a_Linguagem_T_SQL/tree/main/Secao_04_Conhecimento_Teorico)
 - [Seção 05 - Arquitetura do SQL Server - Introdução](https://github.com/romulovieira777/Microsoft_SQL_Server_Developer_Conheca_a_Linguagem_T_SQL/tree/main/Secao_05_Arquitetura_do_SQL_Server_Introducao)
-- [Seção 06 - Criando Tabelas e suas Integridades]()
+- [Seção 06 - Criando Tabelas e suas Integridades](https://github.com/romulovieira777/Microsoft_SQL_Server_Developer_Conheca_a_Linguagem_T_SQL/tree/main/Secao_06_Criando_Tabelas_e_Suas_Integridades)
 
 Link para o curso: [Udemy](https://www.udemy.com/course/sql-server-2017-fundamentos-profissionais-em-t-sql/)
